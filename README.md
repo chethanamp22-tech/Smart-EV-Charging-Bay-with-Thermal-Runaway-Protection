@@ -1,6 +1,3 @@
-# Smart-EV-Charging-Bay-with-Thermal-Runaway-Protection
-
-
 # Smart EV Charging Bay with Thermal Runaway Protection
 
 An Arduino Uno-based safety monitoring system for EV charging bays. It continuously watches ambient gas levels, flame presence, and temperature near the charging battery, and automatically cuts power and raises an alert if signs of thermal runaway are detected.
